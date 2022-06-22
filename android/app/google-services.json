@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "632844993671",
+    "project_id": "safipet",
+    "storage_bucket": "safipet.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:632844993671:android:63a19fca88a14789e2a422",
+        "android_client_info": {
+          "package_name": "com.example.safipet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "632844993671-m3ol9iqok2fs7a4v84mp65olpmbdvh2s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.safipet",
+            "certificate_hash": "5c1242dd0cff4fac4d77f3f42f5f4281a7e0f611"
+          }
+        },
+        {
+          "client_id": "632844993671-4a8h4c2jtcs4lfu2cv700klk249b8nb7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5KXR5kZc16E7GvdCYm0v6rSv4utJUxic"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "632844993671-4a8h4c2jtcs4lfu2cv700klk249b8nb7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
